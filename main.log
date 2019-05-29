@@ -1,0 +1,1828 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6650) (preloaded format=pdflatex 2018.4.4)  29 MAY 2019 16:05
+entering extended mode
+**./main.tex
+(main.tex
+LaTeX2e <2017-04-15>
+Babel <3.18> and hyphenation patterns for 0 language(s) loaded.
+(/home/prates/.miktex/texmfs/install/tex/latex/base/book.cls
+Document Class: book 2014/09/29 v1.4h Standard LaTeX document class
+(/home/prates/.miktex/texmfs/install/tex/latex/base/bk10.clo
+File: bk10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/home/prates/.miktex/texmfs/install/tex/generic/babel/babel.sty
+Package: babel 2018/02/14 3.18 The Babel package
+
+(/home/prates/.miktex/texmfs/install/tex/generic/babel/switch.def
+File: switch.def 2018/02/14 3.18 Babel switching mechanism
+)
+*************************************
+* Local config file bblopts.cfg used
+*
+(/home/prates/.miktex/texmfs/install/tex/latex/arabi/bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(/home/prates/.miktex/texmfs/install/tex/latex/babel-portuges/portuges.ldf
+Language: portuges 2008/03/18 v1.2q Portuguese support from the babel system
+
+(/home/prates/.miktex/texmfs/install/tex/generic/babel/babel.def
+File: babel.def 2018/02/14 3.18 Babel common definitions
+\babel@savecnt=\count88
+\U@D=\dimen103
+
+(/home/prates/.miktex/texmfs/install/tex/generic/babel/txtbabel.def)
+\bbl@dirlevel=\count89
+)
+
+Package babel Warning: No hyphenation patterns were preloaded for
+(babel)                the language `Portuguese' into the format.
+(babel)                Please, configure your TeX system to add them and
+(babel)                rebuild the format. Now I will use the patterns
+(babel)                preloaded for \language=0 instead on input line 55.
+
+\l@portuges = a dialect from \language0
+\l@brazil = a dialect from \language\l@portuges 
+Package babel Info: Making " an active character on input line 145.
+)) (/home/prates/.miktex/texmfs/install/tex/latex/kantlipsum/kantlipsum.sty
+(/home/prates/.miktex/texmfs/install/tex/latex/l3kernel/expl3.sty
+Package: expl3 2019-04-06 L3 programming layer (loader) 
+
+(/home/prates/.miktex/texmfs/install/tex/latex/l3kernel/expl3-code.tex
+Package: expl3 2019-04-06 L3 programming layer (code)
+\c_max_int=\count90
+\l_tmpa_int=\count91
+\l_tmpb_int=\count92
+\g_tmpa_int=\count93
+\g_tmpb_int=\count94
+\g__kernel_prg_map_int=\count95
+\c__ior_term_ior=\count96
+\c_log_iow=\count97
+\l_iow_line_count_int=\count98
+\l__iow_line_target_int=\count99
+\l__iow_one_indent_int=\count100
+\l__iow_indent_int=\count101
+\c_zero_dim=\dimen104
+\c_max_dim=\dimen105
+\l_tmpa_dim=\dimen106
+\l_tmpb_dim=\dimen107
+\g_tmpa_dim=\dimen108
+\g_tmpb_dim=\dimen109
+\c_zero_skip=\skip43
+\c_max_skip=\skip44
+\l_tmpa_skip=\skip45
+\l_tmpb_skip=\skip46
+\g_tmpa_skip=\skip47
+\g_tmpb_skip=\skip48
+\c_zero_muskip=\muskip10
+\c_max_muskip=\muskip11
+\l_tmpa_muskip=\muskip12
+\l_tmpb_muskip=\muskip13
+\g_tmpa_muskip=\muskip14
+\g_tmpb_muskip=\muskip15
+\l_keys_choice_int=\count102
+\l__intarray_loop_int=\count103
+\c__intarray_sp_dim=\dimen110
+\g__intarray_font_int=\count104
+\c__fp_leading_shift_int=\count105
+\c__fp_middle_shift_int=\count106
+\c__fp_trailing_shift_int=\count107
+\c__fp_big_leading_shift_int=\count108
+\c__fp_big_middle_shift_int=\count109
+\c__fp_big_trailing_shift_int=\count110
+\c__fp_Bigg_leading_shift_int=\count111
+\c__fp_Bigg_middle_shift_int=\count112
+\c__fp_Bigg_trailing_shift_int=\count113
+\c__kernel_randint_max_int=\count114
+\g__fp_array_int=\count115
+\l__fp_array_loop_int=\count116
+\l__sort_length_int=\count117
+\l__sort_min_int=\count118
+\l__sort_top_int=\count119
+\l__sort_max_int=\count120
+\l__sort_true_max_int=\count121
+\l__sort_block_int=\count122
+\l__sort_begin_int=\count123
+\l__sort_end_int=\count124
+\l__sort_A_int=\count125
+\l__sort_B_int=\count126
+\l__sort_C_int=\count127
+\l__tl_analysis_normal_int=\count128
+\l__tl_analysis_index_int=\count129
+\l__tl_analysis_nesting_int=\count130
+\l__tl_analysis_type_int=\count131
+\l__regex_internal_a_int=\count132
+\l__regex_internal_b_int=\count133
+\l__regex_internal_c_int=\count134
+\l__regex_balance_int=\count135
+\l__regex_group_level_int=\count136
+\l__regex_mode_int=\count137
+\c__regex_cs_in_class_mode_int=\count138
+\c__regex_cs_mode_int=\count139
+\l__regex_catcodes_int=\count140
+\l__regex_default_catcodes_int=\count141
+\c__regex_catcode_D_int=\count142
+\c__regex_catcode_S_int=\count143
+\c__regex_catcode_L_int=\count144
+\c__regex_catcode_O_int=\count145
+\c__regex_catcode_A_int=\count146
+\c__regex_all_catcodes_int=\count147
+\l__regex_show_lines_int=\count148
+\l__regex_min_state_int=\count149
+\l__regex_max_state_int=\count150
+\l__regex_left_state_int=\count151
+\l__regex_right_state_int=\count152
+\l__regex_capturing_group_int=\count153
+\l__regex_min_pos_int=\count154
+\l__regex_max_pos_int=\count155
+\l__regex_curr_pos_int=\count156
+\l__regex_start_pos_int=\count157
+\l__regex_success_pos_int=\count158
+\l__regex_curr_char_int=\count159
+\l__regex_curr_catcode_int=\count160
+\l__regex_last_char_int=\count161
+\l__regex_case_changed_char_int=\count162
+\l__regex_curr_state_int=\count163
+\l__regex_step_int=\count164
+\l__regex_min_active_int=\count165
+\l__regex_max_active_int=\count166
+\l__regex_replacement_csnames_int=\count167
+\l__regex_match_count_int=\count168
+\l__regex_min_submatch_int=\count169
+\l__regex_submatch_int=\count170
+\l__regex_zeroth_submatch_int=\count171
+\g__regex_trace_regex_int=\count172
+\c_empty_box=\box26
+\l_tmpa_box=\box27
+\l_tmpb_box=\box28
+\g_tmpa_box=\box29
+\g_tmpb_box=\box30
+\l__box_top_dim=\dimen111
+\l__box_bottom_dim=\dimen112
+\l__box_left_dim=\dimen113
+\l__box_right_dim=\dimen114
+\l__box_top_new_dim=\dimen115
+\l__box_bottom_new_dim=\dimen116
+\l__box_left_new_dim=\dimen117
+\l__box_right_new_dim=\dimen118
+\l__box_internal_box=\box31
+\l__coffin_internal_box=\box32
+\l__coffin_internal_dim=\dimen119
+\l__coffin_offset_x_dim=\dimen120
+\l__coffin_offset_y_dim=\dimen121
+\l__coffin_x_dim=\dimen122
+\l__coffin_y_dim=\dimen123
+\l__coffin_x_prime_dim=\dimen124
+\l__coffin_y_prime_dim=\dimen125
+\c_empty_coffin=\box33
+\l__coffin_aligned_coffin=\box34
+\l__coffin_aligned_internal_coffin=\box35
+\l_tmpa_coffin=\box36
+\l_tmpb_coffin=\box37
+\g_tmpa_coffin=\box38
+\g_tmpb_coffin=\box39
+\l__coffin_bounding_shift_dim=\dimen126
+\l__coffin_left_corner_dim=\dimen127
+\l__coffin_right_corner_dim=\dimen128
+\l__coffin_bottom_corner_dim=\dimen129
+\l__coffin_top_corner_dim=\dimen130
+\l__coffin_scaled_total_height_dim=\dimen131
+\l__coffin_scaled_width_dim=\dimen132
+\c__coffin_empty_coffin=\box40
+\l__coffin_display_coffin=\box41
+\l__coffin_display_coord_coffin=\box42
+\l__coffin_display_pole_coffin=\box43
+\l__coffin_display_offset_dim=\dimen133
+\l__coffin_display_x_dim=\dimen134
+\l__coffin_display_y_dim=\dimen135
+\g__file_internal_ior=\read1
+\l__seq_internal_a_int=\count173
+\l__seq_internal_b_int=\count174
+\c__deprecation_minus_one=\count175
+)
+(/home/prates/.miktex/texmfs/install/tex/latex/l3kernel/l3pdfmode.def
+File: l3pdfmode.def 2019-04-06 v L3 Experimental driver: PDF mode
+\l__driver_color_stack_int=\count176
+))
+(/home/prates/.miktex/texmfs/install/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2019-03-05 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count177
+\g__xparse_grabber_int=\count178
+\l__xparse_m_args_int=\count179
+\l__xparse_v_nesting_int=\count180
+)
+Package: kantlipsum 2017/11/16 v0.7 Generate text in Kantian style
+\l__kgl_start_int=\count181
+\l__kgl_end_int=\count182
+
+Package kantlipsum Info: The package provides paragraphs 1 to 164. Values
+(kantlipsum)             outside this range will be ignored.
+
+)
+(/home/prates/.miktex/texmfs/install/tex/latex/tools/multicol.sty
+Package: multicol 2017/04/11 v1.8q multicolumn formatting (FMi)
+\c@tracingmulticols=\count183
+\mult@box=\box44
+\multicol@leftmargin=\dimen136
+\c@unbalance=\count184
+\c@collectmore=\count185
+\doublecol@number=\count186
+\multicoltolerance=\count187
+\multicolpretolerance=\count188
+\full@width=\dimen137
+\page@free=\dimen138
+\premulticols=\dimen139
+\postmulticols=\dimen140
+\multicolsep=\skip49
+\multicolbaselineskip=\skip50
+\partial@page=\box45
+\last@line=\box46
+\maxbalancingoverflow=\dimen141
+\mult@rightbox=\box47
+\mult@grightbox=\box48
+\mult@gfirstbox=\box49
+\mult@firstbox=\box50
+\@tempa=\box51
+\@tempa=\box52
+\@tempa=\box53
+\@tempa=\box54
+\@tempa=\box55
+\@tempa=\box56
+\@tempa=\box57
+\@tempa=\box58
+\@tempa=\box59
+\@tempa=\box60
+\@tempa=\box61
+\@tempa=\box62
+\@tempa=\box63
+\@tempa=\box64
+\@tempa=\box65
+\@tempa=\box66
+\@tempa=\box67
+\c@columnbadness=\count189
+\c@finalcolumnbadness=\count190
+\last@try=\dimen142
+\multicolovershoot=\dimen143
+\multicolundershoot=\dimen144
+\mult@nat@firstbox=\box68
+\colbreak@box=\box69
+\mc@col@check@num=\count191
+)
+(/home/prates/.miktex/texmfs/install/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2017/06/30 v3.9a Extensive control of page headers and footer
+s
+\f@nch@headwidth=\skip51
+\f@nch@O@elh=\skip52
+\f@nch@O@erh=\skip53
+\f@nch@O@olh=\skip54
+\f@nch@O@orh=\skip55
+\f@nch@O@elf=\skip56
+\f@nch@O@erf=\skip57
+\f@nch@O@olf=\skip58
+\f@nch@O@orf=\skip59
+)
+(/home/prates/.miktex/texmfs/install/tex/latex/base/inputenc.sty
+Package: inputenc 2015/03/17 v1.2c Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+
+(/home/prates/.miktex/texmfs/install/tex/latex/ucs/utf8x.def
+File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
+))
+(/home/prates/.miktex/texmfs/install/tex/latex/ucs/ucs.sty
+Package: ucs 2013/05/11 v2.2 UCS: Unicode input support
+
+(/home/prates/.miktex/texmfs/install/tex/latex/ucs/uni-global.def
+File: uni-global.def 2013/05/13 UCS: Unicode global data
+)
+\uc@secondtry=\count192
+\uc@combtoks=\toks16
+\uc@combtoksb=\toks17
+\uc@temptokena=\toks18
+)
+(/home/prates/.miktex/texmfs/install/tex/latex/booklet/booklet.sty
+Package: booklet 2009/09/02 v0.7b booklet printing
+\pageseplength=\dimen145
+\pagesepwidth=\dimen146
+\pagesepoffset=\dimen147
+\c@signature=\count193
+\c@sigcount=\count194
+
+(/home/prates/.miktex/texmfs/install/tex/latex/booklet/bkltprnt.sty
+Package: bkltprnt 2009/09/02 v0.7b support for booklet printing
+\@targetwidth=\dimen148
+\@targetheight=\dimen149
+\@sourcewidth=\dimen150
+\@sourceheight=\dimen151
+\@leftpage=\box70
+\@rightpage=\box71
+\@physicalpage=\count195
+\bookletpage=\count196
+\leftpagenumber=\count197
+\rightpagenumber=\count198
+))
+
+
+No auxiliary output files.
+
+
+No file main.aux.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 30.
+
+LaTeX Font Info:    ... okay on input line 30.
+
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 30.
+
+LaTeX Font Info:    ... okay on input line 30.
+
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 30.
+
+LaTeX Font Info:    ... okay on input line 30.
+
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 30.
+
+LaTeX Font Info:    ... okay on input line 30.
+
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 30.
+
+LaTeX Font Info:    ... okay on input line 30.
+
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 30.
+
+LaTeX Font Info:    ... okay on input line 30.
+(/home/prates/.miktex/texmfs/install/tex/latex/ucs/ucsencs.def
+
+File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
+)
+
+\bookletbox1=\box72
+
+\bookletbox2=\box73
+
+\bookletbox3=\box74
+
+\bookletbox4=\box75
+
+\bookletbox5=\box76
+
+\bookletbox6=\box77
+
+\bookletbox7=\box78
+
+\bookletbox8=\box79
+
+\bookletbox9=\box80
+
+\bookletbox10=\box81
+
+\bookletbox11=\box82
+
+\bookletbox12=\box83
+
+ (casamento.tex
+(/home/prates/.miktex/texmfs/install/tex/latex/ucs/uni-0.def
+
+File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
+)
+Underfull \hbox (badness 10000) in paragraph at lines 9--26
+\OT1/cmr/m/n/10 Adjutorium nostrum in nomine
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--26
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--26
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--26
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--26
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--41
+
+ []
+
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 71.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 71.
+
+Overfull \hbox (8.29588pt too wide) in paragraph at lines 70--76
+\OT1/cmr/m/n/10 Ego auctoritate Ecclesi matrimonium
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--76
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--76
+\OT1/cmr/m/n/10 Eu, por autoridade da Igreja,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 86--99
+\OT1/cmr/m/n/10 Bene$\OMS/cmsy/m/n/10 y$\OT1/cmr/m/n/10 dic, Domine, anulum
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 86--99
+\OT1/cmr/m/n/10 bene$\OMS/cmsy/m/n/10 y$\OT1/cmr/m/n/10 dcimus: ut, qu eum
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 121--125
+
+ []
+
+(/home/prates/.miktex/texmfs/install/tex/latex/ucs/uni-1.def
+
+File: uni-1.def 2013/05/13 UCS: Unicode data U+0100..U+01FF
+)
+Underfull \hbox (badness 10000) in paragraph at lines 140--198
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 140--198
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 140--198
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 140--198
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 140--198
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 140--198
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 140--198
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 140--198
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 140--198
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 140--198
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 140--198
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 140--198
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 140--198
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 140--198
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 140--198
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 140--198
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 140--198
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 140--198
+
+ []
+
+
+Overfull \vbox (1.22166pt too high) has occurred while \output is active []
+
+
+Overfull \vbox (1.22166pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 206--235
+
+ []
+
+
+Underfull \hbox (badness 5985) in paragraph at lines 206--235
+\OT1/cmr/m/n/10 fructificetis decenter in fliis et
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 206--235
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 206--235
+\OT1/cmr/m/n/10 Trbuat vobis Dominus bona
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 206--235
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 206--235
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 206--235
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 206--235
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 206--235
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 206--235
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 206--235
+
+ []
+
+)
+
+
+ (missa.tex
+Underfull \hbox (badness 6364) in paragraph at lines 8--15
+\OT1/cmr/bx/n/10 R. Ad Deum qui ltficat
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--42
+
+ []
+
+
+Underfull \hbox (badness 5374) in paragraph at lines 20--42
+\OT1/cmr/m/n/10 tuam: ipsa me deduxerunt et
+ []
+
+
+Underfull \hbox (badness 5431) in paragraph at lines 20--42
+\OT1/cmr/m/n/10 adduxerunt in montem sanctum
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--42
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--42
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--42
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--42
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--42
+
+ []
+
+
+Overfull \vbox (1.22166pt too high) has occurred while \output is active []
+
+
+Overfull \vbox (13.22166pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 6364) in paragraph at lines 49--59
+\OT1/cmr/bx/n/10 R. Ad Deum qui ltficat
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--59
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--59
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--67
+\OT1/cmr/m/n/10 R. Que Deus onipotente se
+ []
+
+
+Underfull \hbox (badness 5924) in paragraph at lines 70--74
+\OT1/cmr/bx/n/10 Confiteor Deo omnipotenti,/
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--74
+\OT1/cmr/bx/n/10 sanctis Apostolis Petro et
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--74
+\OT1/cmr/bx/n/10 Michlem Archangelum, /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--74
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--74
+\OT1/cmr/m/n/10 EU, PECADOR, me confesso
+ []
+
+
+Underfull \hbox (badness 5939) in paragraph at lines 70--74
+\OT1/cmr/m/n/10 a Deus todo-poderoso, a bem-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 79--90
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 79--90
+\OT1/cmr/m/n/10 trbuat nobis omnpotens et
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 79--90
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 79--90
+\OT1/cmr/m/n/10 Deus todo poderoso tenha
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 79--90
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 94--118
+
+ []
+
+
+Overfull \hbox (3.76808pt too wide) in paragraph at lines 94--118
+\OT1/cmr/m/n/10 Ostende nobis Domine, misericordiam
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 94--118
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 94--118
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 94--118
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 94--118
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 94--118
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 94--118
+\OT1/cmr/m/n/10 Mostrai-nos, Senhor, a vossa
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 94--118
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 94--118
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 130--133
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 130--133
+\OT1/cmr/m/n/10 Nos vos suplicamos, Senhor,
+ []
+
+)
+
+
+ (antemissa.tex
+Underfull \hbox (badness 10000) in paragraph at lines 11--34
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--34
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--34
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--34
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 73--81
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 88--95
+\OT1/cmr/m/n/10 Exaudi nos, omnpotens et
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 88--95
+\OT1/cmr/m/n/10 nostrum \OT1/cmr/m/it/10 per omnia sculua
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 88--95
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 88--95
+
+ []
+
+
+Overfull \hbox (6.01808pt too wide) in paragraph at lines 88--95
+\OT1/cmr/m/n/10 Ouvi-nos, Senhor Deus, misericordioso
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 102--112
+\OT1/cmr/m/n/10 pro ea, ut illam sanctificaret,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 102--112
+\OT1/cmr/m/n/10 uxorem dligit, sepsum dligit.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 102--112
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 102--112
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 102--112
+
+ []
+
+
+Underfull \hbox (badness 7064) in paragraph at lines 102--112
+\OT1/cmr/m/it/10 Leitura da Epstola de S.Paulo
+ []
+
+[1{/home/prates/.miktex/texmfs/data/pdftex/config/pdftex.map}
+
+
+Non-PDF special ignored!
+<special> !TeXDict begin /landplus90{true}store end
+Non-PDF special ignored!
+<special> !TeXDict begin < < /Tumble true > > setpagedevice end
+
+] [2] [3
+
+
+] [4] [5] [6
+
+
+]
+(/home/prates/.miktex/texmfs/install/tex/latex/ucs/uni-32.def
+
+File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
+)
+Overfull \hbox (34.71188pt too wide) in paragraph at lines 116--117
+\OT1/cmr/m/it/10 \Gradual" s~ao orac~oes que se dizem entre a Epstola e o Ev
+angelho. Ordinariamente,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 139--145
+\OT1/cmr/m/n/10 tuum digne valeam nuntiare.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 139--145
+
+ []
+
+
+Underfull \hbox (badness 7486) in paragraph at lines 139--145
+\OT1/cmr/m/n/10 corac~ao e os labios, Vos que
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--167
+\OT1/cmr/m/n/10 Sequentia sancti + Evangelii
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--167
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--167
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--167
+\OT1/cmr/m/n/10 Continuac~ao do S. Evangelho
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--167
+
+ []
+
+
+Underfull \hbox (badness 8113) in paragraph at lines 182--249
+\OT1/cmr/m/n/10 omnipotentem, / factorem cli
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 182--249
+\OT1/cmr/m/n/10 ET INCARNATUS EST DE
+ []
+
+
+Underfull \hbox (badness 8075) in paragraph at lines 182--249
+\OT1/cmr/m/n/10 Et unam, sanctam, catholicam
+ []
+
+
+Underfull \hbox (badness 6641) in paragraph at lines 182--249
+\OT1/cmr/m/n/10 Confteor unum baptsma / in
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 182--249
+\OT1/cmr/m/n/10 (todos se ajoelham) E SE
+ []
+
+
+Underfull \hbox (badness 7613) in paragraph at lines 182--249
+\OT1/cmr/m/n/10 MARIA VIRGINE: ET HOMO
+ []
+
+
+Underfull \hbox (badness 5939) in paragraph at lines 182--249
+\OT1/cmr/m/n/10 Tambem por amor de nos foi
+ []
+
+
+Underfull \hbox (badness 7433) in paragraph at lines 182--249
+\OT1/cmr/m/n/10 crucificado, sob P^oncio Pilatos;
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 182--249
+\OT1/cmr/m/n/10 ao terceiro dia, conforme as
+ []
+
+)
+
+
+ (sacrificio.tex
+Underfull \hbox (badness 10000) in paragraph at lines 36--39
+\OT1/cmr/m/n/10 dignitatem mirabliter condidsti
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 36--39
+
+ []
+
+
+Overfull \vbox (11.22166pt too high) has occurred while \output is active []
+
+
+Overfull \vbox (11.22166pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--48
+\OT1/cmr/m/n/10 salutaris, tuam deprecantes
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--59
+
+ []
+
+
+Underfull \hbox (badness 7888) in paragraph at lines 55--59
+\OT1/cmr/m/n/10 por forma a merecer o vosso
+ []
+
+
+Underfull \hbox (badness 7081) in paragraph at lines 55--59
+\OT1/cmr/m/n/10 Santificador, Deus onipotente e
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--83
+\OT1/cmr/m/n/10 In quorum manibus iniquitates
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--92
+\OT1/cmr/m/n/10 Suscipe, sancta Trnitas, hanc
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--92
+\OT1/cmr/m/n/10 Recebei, Trindade Santa, esta
+ []
+
+
+Underfull \hbox (badness 6445) in paragraph at lines 90--92
+\OT1/cmr/m/n/10 Senhor, e em honra da bem-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 103--108
+\OT1/cmr/bx/n/10 R. Suscpiat Dominus
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 118--125
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 118--125
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 118--125
+
+ []
+
+)
+
+
+ (canon.tex
+Underfull \hbox (badness 10000) in paragraph at lines 28--31
+\OT1/cmr/m/n/10 ubque gratias agere: Domine
+ []
+
+
+Underfull \hbox (badness 5607) in paragraph at lines 28--31
+\OT1/cmr/m/n/10 Deus: per Christum Dominum
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--31
+\OT1/cmr/m/n/10 tuam laudant Angeli, adorant
+ []
+
+
+Underfull \hbox (badness 5954) in paragraph at lines 28--31
+\OT1/cmr/m/n/10 concelebrant. Cum quibus et
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--31
+\OT1/cmr/m/n/10 deprecamur, supplici confessione
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--31
+
+ []
+
+
+Underfull \hbox (badness 5203) in paragraph at lines 28--31
+\OT1/cmr/m/n/10 e dever e salvac~ao nossa, Vos
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--54
+\OT1/cmr/m/n/10 Te gitur, clementssime Pater,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--54
+\OT1/cmr/m/n/10 Dominum nostrum, supplices
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--54
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--54
+\OT1/cmr/m/n/10 orthodoxis, atque catholicae et
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--54
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--54
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--54
+\OT1/cmr/m/n/10 lugar, pela vossa santa Igreja
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--62
+\OT1/cmr/m/n/10 Memento, Domine, famulorum
+ []
+
+
+Underfull \hbox (badness 5681) in paragraph at lines 59--62
+\OT1/cmr/m/n/10 tibi fides cognita est, et nota
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--62
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--69
+\OT1/cmr/m/n/10 Communicantes, et memoriam
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--69
+\OT1/cmr/m/n/10 venerantes, in primis glorios
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--69
+\OT1/cmr/m/n/10 sed et beati Joseph, ejusdem
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--69
+\OT1/cmr/m/n/10 Vrginis Sponsi, et beatorum
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--69
+\OT1/cmr/m/n/10 Chrysogoni, Joannis et Pauli,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--69
+\OT1/cmr/m/n/10 Unidos na mesma comunh~ao,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--69
+\OT1/cmr/m/n/10 Bartolomeu, Mateus, Sim~ao e
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--69
+\OT1/cmr/m/n/10 Tadeu, Lino, Cleto, Clemente,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 71--75
+\OT1/cmr/m/n/10 tuorum jubeas grege numerari.
+ []
+
+
+Underfull \hbox (badness 7326) in paragraph at lines 71--75
+\OT1/cmr/m/n/10 Esta oblac~ao, que nos, vossos
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 71--75
+\OT1/cmr/m/n/10 condenac~ao e ordenais sejamos
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 106--110
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 106--110
+\OT1/cmr/m/n/10 ceado, tomando tambem este
+ []
+
+
+Underfull \hbox (badness 8000) in paragraph at lines 106--110
+\OT1/cmr/m/n/10 precioso calice em suas santas
+ []
+
+[7] [8] [9] [10
+
+
+] [11
+
+
+] [12]
+Underfull \hbox (badness 10000) in paragraph at lines 125--132
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 125--132
+\OT1/cmr/m/n/10 scuti accepta habere dignatus
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 125--132
+\OT1/cmr/m/n/10 et sacrifcium patriarch nostri
+ []
+
+
+Underfull \hbox (badness 6141) in paragraph at lines 125--132
+\OT1/cmr/m/n/10 Abrah: et quod tibi obtulit
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 125--132
+
+ []
+
+
+Underfull \hbox (badness 7012) in paragraph at lines 125--132
+\OT1/cmr/m/n/10 Por este motivo, Senhor, nos,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 125--132
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 137--140
+\OT1/cmr/m/n/10 Deus: jube hc perferri per
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 137--140
+\OT1/cmr/m/n/10 sumpserimus, omni benedictione
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 137--140
+\OT1/cmr/m/n/10 eumdem Christum Dominum
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 137--140
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 137--140
+\OT1/cmr/m/n/10 Suplicantes Vos rogamos, Deus
+ []
+
+
+Overfull \vbox (1.22166pt too high) has occurred while \output is active []
+
+
+Overfull \vbox (1.22166pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 145--154
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 145--154
+
+ []
+
+
+Underfull \hbox (badness 8170) in paragraph at lines 145--154
+\OT1/cmr/m/n/10 que repousam em Cristo, Vos
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 159--161
+\OT1/cmr/m/n/10 tuarum sperantibus, partem
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 159--161
+\OT1/cmr/m/n/10 aliquam, et societatem donare
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 159--161
+\OT1/cmr/m/n/10 et Martyribus: cum Joanne,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 159--161
+\OT1/cmr/m/n/10 Stephano, Mattha, Barnaba,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 159--161
+\OT1/cmr/m/n/10 Ignatio, Alexandro, Marcellno,
+ []
+
+
+Underfull \hbox (badness 8189) in paragraph at lines 159--161
+\OT1/cmr/m/n/10 nos consortium, non stimator
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 159--161
+\OT1/cmr/m/n/10 meriti, sed veni, quaesumus,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 159--161
+\OT1/cmr/m/n/10 servos, confiados nas vossas
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 159--161
+\OT1/cmr/m/n/10 Marcelino, Pedro, Felicidade,
+ []
+
+
+Underfull \hbox (badness 5817) in paragraph at lines 159--161
+\OT1/cmr/m/n/10 Perpetua, []Agueda, Lucia, In^es,
+ []
+
+
+Underfull \hbox (badness 6173) in paragraph at lines 159--161
+\OT1/cmr/m/n/10 Santos, em cujo consorcio Vos
+ []
+
+
+Underfull \hbox (badness 6675) in paragraph at lines 167--171
+\OT1/cmr/m/n/10 Per quem hc omnia Domine,
+ []
+
+
+Underfull \hbox (badness 5578) in paragraph at lines 167--171
+\OT1/cmr/m/n/10 semper bona creas, sanct$[]$ficas,
+ []
+
+)
+
+
+ (comunhao.tex
+Underfull \hbox (badness 10000) in paragraph at lines 9--16
+\OT1/cmr/m/n/10 OR[]EMUS. Prceptis salutaribus
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--16
+\OT1/cmr/m/n/10 moniti, et divna institutione
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--16
+
+ []
+
+
+Underfull \hbox (badness 6428) in paragraph at lines 9--16
+\OT1/cmr/m/n/10 Pater noster, qui es in clis:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--16
+\OT1/cmr/m/n/10 nostrum quotidianum da nobis
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--16
+\OT1/cmr/m/n/10 OREMOS. Advertidos pelos
+ []
+
+
+Underfull \hbox (badness 6428) in paragraph at lines 9--16
+\OT1/cmr/m/n/10 Pai nosso, que estais no ceu,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--31
+\OT1/cmr/m/n/10 propagationem humani generis
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--31
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--31
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--31
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--31
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--38
+\OT1/cmr/m/n/10 de nhilo cuncta fecsti: qui,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--38
+\OT1/cmr/m/n/10 dispositis universitatis exordiis,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--38
+\OT1/cmr/m/n/10 condidsti, ut femneo corpori
+ []
+
+
+Underfull \hbox (badness 6575) in paragraph at lines 34--38
+\OT1/cmr/m/n/10 docens quod ex uno placusset
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--38
+\OT1/cmr/m/n/10 ea benedictione donatur, quae
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--38
+\OT1/cmr/m/n/10 sola nec per originalis peccati
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--38
+\OT1/cmr/m/n/10 sententiam: respice proptius
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--38
+\OT1/cmr/m/n/10 praevaricationis usurpet: nexa
+ []
+
+
+Underfull \hbox (badness 7704) in paragraph at lines 34--38
+\OT1/cmr/m/n/10 thoro juncta, contactus illcitos
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--38
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--38
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--38
+\OT1/cmr/m/n/10 consagrastes a uni~ao conjugal,
+ []
+
+
+Overfull \vbox (1.22166pt too high) has occurred while \output is active []
+
+
+Overfull \vbox (1.22166pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 5175) in paragraph at lines 40--42
+\OT1/cmr/m/n/10 Per eumdem Dominum nostrum
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--52
+\OT1/cmr/m/n/10 ab omnibus malis, prteritis,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--52
+\OT1/cmr/m/n/10 prsentibus et futuris: et
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--52
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--52
+\OT1/cmr/m/n/10 Livrai-nos, Senhor, de todos
+ []
+
+
+Underfull \hbox (badness 6001) in paragraph at lines 47--52
+\OT1/cmr/m/n/10 futuros, e, pela intercess~ao da
+ []
+
+
+Underfull \hbox (badness 7981) in paragraph at lines 47--52
+\OT1/cmr/m/n/10 Santos, concedei-nos propcio a
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--65
+\OT1/cmr/m/n/10 Pax $[]$ Domini $[]$ sit semper
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--75
+\OT1/cmr/m/n/10 Hc commxtio et consecratio
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--75
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--95
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--95
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--95
+
+ []
+
+
+Underfull \hbox (badness 5161) in paragraph at lines 100--103
+\OT1/cmr/m/n/10 pacificare et coadunare digneris:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 100--103
+
+ []
+
+
+Underfull \hbox (badness 7064) in paragraph at lines 109--116
+\OT1/cmr/m/n/10 mundum vivificasti: lbera me
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 109--116
+\OT1/cmr/m/n/10 per hoc sacrosanctum Corpus
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 109--116
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 109--116
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 109--116
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 139--141
+\OT1/cmr/m/n/10 Quid retrbuam Domino pro
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 139--141
+\OT1/cmr/m/n/10 omnibus qu retrbuit mihi?
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 154--156
+\OT1/cmr/bx/n/10 Confiteor Deo omnipotenti,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 154--156
+\OT1/cmr/bx/n/10 beato Michli Archangelo,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 154--156
+\OT1/cmr/bx/n/10 Apostolis Petro et Paulo,
+ []
+
+
+Underfull \hbox (badness 7832) in paragraph at lines 154--156
+\OT1/cmr/bx/n/10 Petrum et Paulum, omnes
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 154--156
+\OT1/cmr/m/n/10 EU, PECADOR, me confesso
+ []
+
+
+Underfull \hbox (badness 5939) in paragraph at lines 154--156
+\OT1/cmr/m/n/10 a Deus todo-poderoso, a bem-
+ []
+
+
+Overfull \vbox (1.22166pt too high) has occurred while \output is active []
+
+
+Overfull \vbox (1.22166pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 158--169
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 158--169
+\OT1/cmr/m/n/10 trbuat nobis omnpotens et
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 158--169
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 158--169
+\OT1/cmr/m/n/10 Deus todo poderoso tenha
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 158--169
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--183
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--183
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 199--207
+\OT1/cmr/m/n/10 temporali fiat nobis remedium
+ []
+
+
+Underfull \hbox (badness 5245) in paragraph at lines 199--207
+\OT1/cmr/m/n/10 Senhor, o que em nossa boca
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 199--207
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 199--207
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 223--234
+\OT1/cmr/m/n/10 Quaesumus, omnpotens Deus:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 223--234
+\OT1/cmr/m/n/10 instituta providentiae tuae pio
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 223--234
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 223--234
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 223--234
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 223--234
+\OT1/cmr/m/n/10 Santopor todos os seculos dos
+ []
+
+)
+
+
+ (despedida.tex
+Underfull \hbox (badness 10000) in paragraph at lines 23--40
+\OT1/cmr/m/n/10 Placeat tibi, sancta Trnitas,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--40
+\OT1/cmr/m/n/10 obsequium servitutis me: et
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--40
+\OT1/cmr/m/n/10 tu maiestatis indgnus obtuli,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--40
+\OT1/cmr/m/n/10 sit, te miserante, propitiabile.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--40
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--40
+\OT1/cmr/m/n/10 Seja-vos agradavel, o Trindade
+ []
+
+[13
+
+
+] [14] [15] [16
+
+
+] [17] [18]
+Underfull \hbox (badness 10000) in paragraph at lines 70--79
+\OT1/cmr/m/n/10 Fuit homo missus a Deo cui
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--79
+\OT1/cmr/m/n/10 Erat lux vera qu illuminat
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--79
+
+ []
+
+)
+
+
+ [19] [20]
+
+ ) 
+Here is how much of TeX's memory you used:
+ 12342 strings out of 495223
+ 224013 string characters out of 3181620
+ 623751 words of memory out of 3000000
+ 15629 multiletter control sequences out of 15000+200000
+ 533704 words of font info for 28 fonts, out of 3000000 for 9000
+ 0 hyphenation exceptions out of 8191
+ 40i,4n,63p,1432b,565s stack positions out of 5000i,500n,10000p,200000b,50000s
+</home/prates/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx10.pf
+b></home/prates/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmbxti10.
+pfb></home/prates/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.p
+fb></home/prates/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy10.p
+fb></home/prates/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmti10.p
+fb>
+Output written on main.pdf (20 pages, 169655 bytes).
+PDF statistics:
+ 87 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
